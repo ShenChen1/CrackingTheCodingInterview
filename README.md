@@ -1,2 +1,2 @@
-# CrackingTheCodingInterview
-Cracking The Coding Interview book's exercise
+# Cracking the coding interview
+Solutions for the book: Cracking the coding interview 
